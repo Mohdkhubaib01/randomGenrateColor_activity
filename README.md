@@ -67,7 +67,7 @@ function generateColor() {
 
 ## 🙌 Author
 
-Made with ❤️ by [Your Name](https://github.com/your-username)
+Made with ❤️ by [Your Name](https://github.com/Mohdkhubaib01)
 
 ## 📃 License
 
